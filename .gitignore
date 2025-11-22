@@ -1,0 +1,45 @@
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+
+Assets/_DLNK/
+
+# 如果有额外的大型资源包，也可以加：
+Assets/Space Base Pack/
+Assets/SpaceGraphicsToolkit/
+
+Assets/AssetStoreTools*
+Packages/com.unity.collab-proxy/*
+
+
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/UnityEditorSettings.asset
+
+.vscode/
+.vs/
+*.user
+*.suo
+*.tmp
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+.collab/
+crashlytics-build.properties
+
+Assets/TextMesh Pro/*
+!Assets/TextMesh Pro/Resources/*
+
+*.apk
+*.aab
+*.unitypackage
